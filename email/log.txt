@@ -1,0 +1,17 @@
+16-05-2018 00:17:05 - SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+16-05-2018 00:18:15 - SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting IP:127.0.0.1
+16-05-2018 00:47:48 - SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting IP:127.0.0.1
+20-05-2018 15:39:24 - SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting IP:127.0.0.1
+20-05-2018 15:40:01 - SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting IP:127.0.0.1
+20-05-2018 15:40:37 - SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting IP:127.0.0.1
+20-05-2018 15:40:45 - SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting IP:127.0.0.1
+20-05-2018 15:40:49 - SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting IP:127.0.0.1
+20-05-2018 15:41:06 - SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting IP:127.0.0.1
+20-05-2018 15:41:08 - SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting IP:127.0.0.1
+20-05-2018 15:42:19 - SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting IP:127.0.0.1
+20-05-2018 15:42:27 - SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting IP:127.0.0.1
+20-05-2018 15:42:31 - SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting IP:127.0.0.1
+20-05-2018 15:42:48 - SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting IP:127.0.0.1
+20-05-2018 15:43:16 - SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting IP:127.0.0.1
+21-05-2018 09:58:26 - SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting IP:127.0.0.1
+23-05-2018 00:44:31 - You must provide at least one recipient email address. IP:127.0.0.1
