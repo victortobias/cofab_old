@@ -6,7 +6,7 @@ class Sql extends PDO {
 
     public function __construct(){
         //setado o charset para UTF-8
-        $this->conn = new PDO("mysql:host=localhost;dbname=cofab", "root","", array(PDO::MYSQL_ATTR_INIT_COMMAND => 'SET NAMES \'UTF8\''));
+        $this->conn = new PDO("mysql:host=localhost;dbname=dbname", "root","", array(PDO::MYSQL_ATTR_INIT_COMMAND => 'SET NAMES \'UTF8\''));
 
 
     }
